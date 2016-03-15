@@ -1,2 +1,3 @@
 # hello-world
-My Hello World Ex.
+Hello, my name is Karel and this is my GitHUb Hello World Example. 
+Great!
